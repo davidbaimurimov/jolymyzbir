@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JOLGO - умная программа лояльности для автомобилистов. Экономьте на топливе и получайте эксклюзивные баллы">
+    <title>JOLGO - Умная экономия на каждой поездке</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Навигация -->
+<nav id="navbar" class="navbar">
+    <div class="nav-container">
+        <div class="logo">
+            <img src="./img/logo.png" alt="logo" />
+            <span class="logo-text">JOLGO</span>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="#features">Возможности</a></li>
+            <li><a href="#how-it-works">Как работает</a></li>
+            <li><a href="#benefits">Преимущества</a></li>
+        </ul>
+
+        <div class="nav-actions">
+            <a href="#download" class="btn-download desktop">Скачать&nbsp;приложение</a>
+            <a href="#download" class="btn-download phone">Скачать</a>
+        </div>
+
+        <!-- Mobile Menu Toggle -->
+        <button class="mobile-menu-toggle" aria-label="Меню">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-background">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="grid-pattern"></div>
+    </div>
+
+    <div class="hero-content">
+        <div class="hero-text">
+            <h1 class="hero-title">
+                Экономьте на топливе
+                <span class="gradient-text">умно и просто</span>
+            </h1>
+
+            <div class="badge">
+                <span class="badge-icon">✨</span>
+                Новое поколение программ лояльности
+            </div>
+
+            <p class="hero-description">
+                JOLGO — это персональный финансовый помощник для автомобилистов.
+                Копите баллы, получайте эксклюзивные предложения и контролируйте расходы
+                на топливо в одном приложении.
+            </p>
+
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-number">65К+</div>
+                    <div class="stat-label">Активных пользователей</div>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <div class="stat-number">15%</div>
+                    <div class="stat-label">Средняя экономия</div>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <div class="stat-number">30+</div>
+                    <div class="stat-label">Партнёрских АЗС</div>
+                </div>
+            </div>
+
+            <div class="hero-buttons">
+                <a href="https://apps.apple.com/ru/app/id6758012434" class="btn-primary">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M10 13L6 9H9V3H11V9H14L10 13Z" fill="currentColor"/>
+                        <path d="M3 15H17V17H3V15Z" fill="currentColor"/>
+                    </svg>
+                    Скачать приложение
+                </a>
+                <a href="#features" class="btn-secondary">
+                    Узнать больше
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M7 10L10 13L13 10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+
+        <div class="hero-visual">
+            <div class="card-mockup">
+                <div class="card-frame">
+                    <img src="./img/card.png" alt="jolgo app">
+                    <div class="phone-notch"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section id="features" class="features">
+    <div class="section-container">
+        <div class="section-header">
+            <span class="section-badge">Возможности</span>
+            <h2 class="section-title">Всё необходимое в одном приложении</h2>
+            <p class="section-subtitle">
+                Управляйте финансами, накапливайте баллы и получайте персональные предложения
+            </p>
+        </div>
+
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="2"/>
+                            <path d="M3 10H21" stroke="currentColor" stroke-width="2"/>
+                            <circle cx="7" cy="15" r="1" fill="currentColor"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">Виртуальная карта</h3>
+                <p class="feature-description">
+                    Мгновенный выпуск цифровой карты лояльности с доступом ко всем
+                    преимуществам программы прямо в вашем смартфоне
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <path d="M13 2L3 14H12L11 22L21 10H12L13 2Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">Мгновенные баллы</h3>
+                <p class="feature-description">
+                    Автоматическое начисление бонусов после каждой покупки без
+                    необходимости предъявления физической карты
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">Персональные акции</h3>
+                <p class="feature-description">
+                    Эксклюзивные предложения и специальные скидки, подобранные
+                    индивидуально на основе ваших предпочтений
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <path d="M3 3V21H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M7 14L11 10L15 14L20 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">Умная аналитика</h3>
+                <p class="feature-description">
+                    Детальная статистика расходов на топливо с интерактивными
+                    графиками и рекомендациями по оптимизации бюджета
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 2C9.243 2 7 4.243 7 7C7 9.757 9.243 12 12 12C14.757 12 17 9.757 17 7C17 4.243 14.757 2 12 2Z" stroke="currentColor" stroke-width="2"/>
+                            <path d="M12 14C7.589 14 4 17.589 4 22H20C20 17.589 16.411 14 12 14Z" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">История операций</h3>
+                <p class="feature-description">
+                    Полный контроль над всеми транзакциями с возможностью экспорта
+                    отчётов для бухгалтерии или личного учёта
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon-wrapper">
+                    <div class="feature-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+                            <rect x="3" y="11" width="18" height="11" rx="2" stroke="currentColor" stroke-width="2"/>
+                            <path d="M7 11V7C7 4.791 8.791 3 11 3H13C15.209 3 17 4.791 17 7V11" stroke="currentColor" stroke-width="2"/>
+                            <circle cx="12" cy="16" r="1" fill="currentColor"/>
+                        </svg>
+                    </div>
+                </div>
+                <h3 class="feature-title">Защита данных</h3>
+                <p class="feature-description">
+                    Банковский уровень шифрования и многофакторная аутентификация
+                    для максимальной безопасности ваших данных
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How It Works Section -->
+<section id="how-it-works" class="how-it-works">
+    <div class="section-container">
+        <div class="section-header">
+            <span class="section-badge">Как работает</span>
+            <h2 class="section-title">Начните экономить <span class="gradient-text">за 3 шага</span></h2>
+            <p class="section-subtitle">
+                От установки до первой экономии — всего несколько минут
+            </p>
+        </div>
+
+        <div class="steps-timeline">
+            <div class="step-item">
+                <div class="step-number">01</div>
+                <div class="step-content">
+                    <div class="step-icon-container">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                            <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                            <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="step-title">Скачайте приложение</h3>
+                    <p class="step-description">
+                        Установите JOLGO из App Store.
+                        Процесс займёт не более 30 секунд
+                    </p>
+                </div>
+                <div class="step-connector"></div>
+            </div>
+
+            <div class="step-item">
+                <div class="step-number">02</div>
+                <div class="step-content">
+                    <div class="step-icon-container">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none">
+                            <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                            <path d="M12 6V12L16 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="step-title">Быстрая регистрация</h3>
+                    <p class="step-description">
+                        Создайте аккаунт и получите виртуальную карту лояльности
+                        моментально. Никаких документов и ожиданий
+                    </p>
+                </div>
+                <div class="step-connector"></div>
+            </div>
+
+            <div class="step-item">
+                <div class="step-number">03</div>
+                <div class="step-content">
+                    <div class="step-icon-container">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none">
+                            <path d="M20 12V22H4V12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M22 7H2V12H22V7Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                            <path d="M12 22V7" stroke="currentColor" stroke-width="2"/>
+                            <path d="M12 7H17L12 2L7 7H12Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="step-title">Начните экономить</h3>
+                    <p class="step-description">
+                        Заправляйтесь на партнёрских АЗС, копите бонусы автоматически
+                        и обменивайте их на топливо или скидки
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Benefits Section -->
+<section id="benefits" class="benefits">
+    <div class="section-container">
+        <div class="section-header">
+            <span class="section-badge">Преимущества</span>
+            <h2 class="section-title">Почему выбирают <span class="gradient-text">JOLGO</span></h2>
+            <p class="section-subtitle">
+                Реальные преимущества для каждого автомобилиста
+            </p>
+        </div>
+
+        <div class="benefits-grid">
+            <div class="benefit-card benefit-large">
+                <div class="benefit-visual">
+                    <div class="benefit-number">15%</div>
+                    <div class="benefit-chart">
+                        <div class="chart-bar" style="height: 60%"></div>
+                        <div class="chart-bar" style="height: 80%"></div>
+                        <div class="chart-bar" style="height: 100%"></div>
+                    </div>
+                </div>
+                <div class="benefit-content">
+                    <h3 class="benefit-title">Реальная экономия</h3>
+                    <p class="benefit-description">
+                        Наши пользователи экономят в среднем до 15% на топливе и
+                        сопутствующих услугах ежемесячно. Это более 3000с. в месяц
+                        для среднестатистического водителя
+                    </p>
+                    <ul class="benefit-list">
+                        <li>Кэшбек до 5% на каждую заправку</li>
+                        <li>Дополнительные скидки от партнёров</li>
+                        <li>Специальные акции для постоянных клиентов</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="benefit-card">
+                <div class="benefit-icon-lg">⚡</div>
+                <h3 class="benefit-title">Мгновенные операции</h3>
+                <p class="benefit-description">
+                    Бонусы начисляются автоматически в течение нескольких секунд
+                    после заправки. Не нужно ждать обработки
+                </p>
+            </div>
+
+            <div class="benefit-card">
+                <div class="benefit-icon-lg">🎯</div>
+                <h3 class="benefit-title">Умные рекомендации</h3>
+                <p class="benefit-description">
+                    Персонализированные советы по оптимизации расходов на основе
+                    анализа ваших привычек и маршрутов
+                </p>
+            </div>
+
+            <div class="benefit-card">
+                <div class="benefit-icon-lg">🏆</div>
+                <h3 class="benefit-title">500+ партнёров</h3>
+                <p class="benefit-description">
+                    Сеть проверенных АЗС по всей стране с гарантированным качеством
+                    обслуживания и топлива
+                </p>
+            </div>
+
+            <div class="benefit-card">
+                <div class="benefit-icon-lg">📱</div>
+                <h3 class="benefit-title">Удобный интерфейс</h3>
+                <p class="benefit-description">
+                    Интуитивно понятное приложение, которое не требует обучения.
+                    Всё необходимое всегда под рукой
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Download CTA Section -->
+<section id="download" class="download-cta">
+    <div class="download-container">
+        <div class="download-content">
+            <h2 class="download-title">Начните экономить уже сегодня</h2>
+            <p class="download-subtitle">
+                Присоединяйтесь к тысячам водителей, которые уже оценили преимущества JOLGO.
+            </p>
+
+            <div class="download-features">
+                <div class="feature-badge">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M8 0L10.1 5.9L16 8L10.1 10.1L8 16L5.9 10.1L0 8L5.9 5.9L8 0Z"/>
+                    </svg>
+                    Бесплатно
+                </div>
+                <div class="feature-badge">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M8 0L10.1 5.9L16 8L10.1 10.1L8 16L5.9 10.1L0 8L5.9 5.9L8 0Z"/>
+                    </svg>
+                    Без рекламы
+                </div>
+            </div>
+
+            <div class="download-buttons">
+                <a href="https://apps.apple.com/ru/app/id6758012434" class="store-button">
+                    <img src="./img/store.svg" alt="" class="scale">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="footer-container">
+        <div class="footer-main">
+            <div class="footer-brand">
+                <div class="footer-logo">
+                    <img src="./img/logo.png" alt="logo" />
+                    <span>JOLGO</span>
+                </div>
+                <p class="footer-tagline">
+                    Умная программа лояльности для автомобилистов.
+                    Экономьте на топливе с каждой поездкой.
+                </p>
+            </div>
+
+            <div class="footer-links-group">
+                <div class="footer-column">
+                    <h4 class="footer-heading">Продукт</h4>
+                    <ul class="footer-links">
+                        <li><a href="#features">Возможности</a></li>
+                        <li><a href="#how-it-works">Как работает</a></li>
+                        <li><a href="#benefits">Преимущества</a></li>
+                        <li><a href="#download">Скачать</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-column">
+                    <h4 class="footer-heading">Юридическое</h4>
+                    <ul class="footer-links">
+                        <li><a href="./privacy.html">Политика&nbsp;конфиденциальности</a></li>
+                        <li><a href="mailto:ilmamaev@yandex.ru" title="Связаться с нами">ilmamaev@yandex.ru</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p class="footer-copyright">
+                © 2026 JOLGO. Все права защищены.
+            </p>
+        </div>
+    </div>
+</footer>
+
+<!-- Custom JS -->
+<script src="script.js"></script>
+</body>
+</html>
