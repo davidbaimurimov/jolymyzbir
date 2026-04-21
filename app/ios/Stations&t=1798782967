@@ -1,526 +1,66 @@
 [
   {
-    "ID": "17811914",
-    "NAME": "АЗС №66",
-    "LONGITUDE": "78.36643",
-    "LATITUDE": "42.48255",
-    "IDENTIFIER": "3707",
-    "REGION": "3485",
+    "ID": "17812228",
+    "NAME": "АЗС №1",
+    "LONGITUDE": "71.8122",
+    "LATITUDE": "51.05365",
+    "IDENTIFIER": "11410",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103673",
     "AZSGOID": null,
     "URLTOTIP": "",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Каракол, Токтогула б/н",
-    "SERVICES": [
-      "17813325",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "63.30",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "63.30"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811915",
-    "NAME": "АЗС №67",
-    "LONGITUDE": "78.38633",
-    "LATITUDE": "42.51624",
-    "IDENTIFIER": "3708",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Каракол, Кадыр Аке, 60А",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "63.30",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "63.30"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17814157",
-    "NAME": "АЗС №104",
-    "LONGITUDE": "77.10615",
-    "LATITUDE": "42.65133",
-    "IDENTIFIER": "11223",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Чолпон-Ата, Ж. Абдрахманова 33/1",
-    "SERVICES": [
-      "17813325",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": [],
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": ""
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": ""
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": ""
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": ""
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": ""
-      }
-    ],
-    "PRICETIME": 1748600350,
-    "CURRENCY": "RUB",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811913",
-    "NAME": "АЗС №61",
-    "LONGITUDE": "76.16281",
-    "LATITUDE": "42.45344",
-    "IDENTIFIER": "3702",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Балыкчы, Абдрахманова, 38",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "177": "61.70",
-      "2423224": "63.30",
-      "179": "70.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "63.30"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "70.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811916",
-    "NAME": "АЗС №70",
-    "LONGITUDE": "75.7914",
-    "LATITUDE": "42.22865",
-    "IDENTIFIER": "3711",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Жаны-Жол, Жайыльская, 69 (нов. Орозбакова, 69)",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "63.30",
-      "179": "70.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "63.30"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "70.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17814155",
-    "NAME": "АЗС №107",
-    "LONGITUDE": "75.54642",
-    "LATITUDE": "42.8233",
-    "IDENTIFIER": "3740",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Чым-Коргон, Казакбаева 1 Б",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813353",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": [],
-    "FUELS_DATA": [
-      {
-        "id": "176",
-        "name": "95",
-        "price": ""
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": ""
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": ""
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": ""
-      }
-    ],
-    "PRICETIME": 1748600350,
-    "CURRENCY": "RUB",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811911",
-    "NAME": "АЗС №58",
-    "LONGITUDE": "75.29831",
-    "LATITUDE": "42.82523",
-    "IDENTIFIER": "3700",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Токмак, Жантаева, 11Б",
+    "PLACE": "Жибек Жолы, Астана-Караганда (М36, 23-й км)",
     "SERVICES": [
       "17813325",
       "17813326",
       "17813331",
-      "17813333",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
       "17813353",
       "17813354",
-      "17813356",
-      "17814727"
+      "17813356"
     ],
     "AAZS": 0,
     "FUEL": [
-      "175",
       "176",
       "177",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
         "id": "176",
         "name": "95",
-        "price": "69.00"
+        "price": "255.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
+        "price": "205.00"
       },
       {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "id": "179",
+        "name": "ДТз",
+        "price": "450.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -529,1931 +69,69 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17812219",
-    "NAME": "АЗС №98",
-    "LONGITUDE": "75.29751",
-    "LATITUDE": "42.85683",
-    "IDENTIFIER": "11221",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Токмак, Советская б/н",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813327",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": ""
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913453,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17812213",
-    "NAME": "АЗС №60",
-    "LONGITUDE": "74.88777",
-    "LATITUDE": "42.89396",
-    "IDENTIFIER": "11209",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Дмитриевка, Ленина, 126",
-    "SERVICES": [
-      "17813325",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913453,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811912",
-    "NAME": "АЗС №59",
-    "LONGITUDE": "74.79676",
-    "LATITUDE": "42.87776",
-    "IDENTIFIER": "3701",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Киршёлк, С. Киршёлк, Контур 159, 160",
-    "SERVICES": [
-      "17813325",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811885",
+    "ID": "17812172",
     "NAME": "АЗС №2",
-    "LONGITUDE": "74.51416",
-    "LATITUDE": "42.87373",
-    "IDENTIFIER": "3644",
-    "REGION": "3485",
+    "LONGITUDE": "71.40778",
+    "LATITUDE": "51.19378",
+    "IDENTIFIER": "11103",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103676",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Бишкек, Дэн Сяо Пина, 308А",
+    "PLACE": "Астана, Биржан-Сала, 4/1",
     "SERVICES": [
       "17813325",
       "17813326",
-      "17813328",
       "17813331",
-      "17813333",
       "17813335",
-      "17813336",
       "17813338",
       "17813343",
       "17813352",
       "17813353",
       "17813354",
-      "17813356",
-      "17814727"
+      "17813356"
     ],
     "AAZS": 0,
     "FUEL": [
       "175",
       "176",
       "177",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
+      "175": "262.00",
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": "262.00"
       },
       {
         "id": "176",
         "name": "95",
-        "price": "69.00"
+        "price": "255.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811886",
-    "NAME": "АЗС №3",
-    "LONGITUDE": "74.62191",
-    "LATITUDE": "42.82824",
-    "IDENTIFIER": "3645",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Б.Юнусалиева, 23/3",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811887",
-    "NAME": "АЗС №4",
-    "LONGITUDE": "74.6115",
-    "LATITUDE": "42.82574",
-    "IDENTIFIER": "3646",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Токомбаева, 1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811888",
-    "NAME": "АЗС №5",
-    "LONGITUDE": "74.61583",
-    "LATITUDE": "42.85973",
-    "IDENTIFIER": "3647",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Кулатова, 9Б",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813327",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811889",
-    "NAME": "АЗС №6",
-    "LONGITUDE": "74.57289",
-    "LATITUDE": "42.88525",
-    "IDENTIFIER": "3648",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Жибек-Жолу, 623/1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811890",
-    "NAME": "АЗС №8",
-    "LONGITUDE": "74.65023",
-    "LATITUDE": "42.87546",
-    "IDENTIFIER": "3650",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Чуй, 39А",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811892",
-    "NAME": "АЗС №11",
-    "LONGITUDE": "74.63657",
-    "LATITUDE": "42.85668",
-    "IDENTIFIER": "3653",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Горького, 1/4",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811893",
-    "NAME": "АЗС №12",
-    "LONGITUDE": "74.57682",
-    "LATITUDE": "42.88438",
-    "IDENTIFIER": "3654",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, М.Ганди, 91",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813327",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811894",
-    "NAME": "АЗС №13",
-    "LONGITUDE": "74.57516",
-    "LATITUDE": "42.89499",
-    "IDENTIFIER": "3655",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, М.Ганди, 179",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811896",
-    "NAME": "АЗС №16",
-    "LONGITUDE": "74.57332",
-    "LATITUDE": "42.86645",
-    "IDENTIFIER": "3658",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Льва Толстого, 17Б",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811897",
-    "NAME": "АЗС №17",
-    "LONGITUDE": "74.61584",
-    "LATITUDE": "42.88465",
-    "IDENTIFIER": "3659",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Жибек-Жолу, 276/2",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813327",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811898",
-    "NAME": "АЗС №18",
-    "LONGITUDE": "74.57327",
-    "LATITUDE": "42.84337",
-    "IDENTIFIER": "3660",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Ахунбаева, 188А",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811899",
-    "NAME": "АЗС №26",
-    "LONGITUDE": "74.59934",
-    "LATITUDE": "42.86334",
-    "IDENTIFIER": "3668",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Льва Толстого, 5А",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813327",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811900",
-    "NAME": "АЗС №29",
-    "LONGITUDE": "74.52447",
-    "LATITUDE": "42.87253",
-    "IDENTIFIER": "3671",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Сыдыгалиева, 7/1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811901",
-    "NAME": "АЗС №30",
-    "LONGITUDE": "74.6172",
-    "LATITUDE": "42.82297",
-    "IDENTIFIER": "3672",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Сухэ Батора, 1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811902",
-    "NAME": "АЗС №31",
-    "LONGITUDE": "74.63194",
-    "LATITUDE": "42.84222",
-    "IDENTIFIER": "3673",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, мкр-н Улан 2/1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "180"
-    ],
-    "PRICE": {
-      "180": "31.00"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.00"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811903",
-    "NAME": "АЗС №32",
-    "LONGITUDE": "74.69089",
-    "LATITUDE": "42.87214",
-    "IDENTIFIER": "3674",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Мухтара Ауэзова, 1/3",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813354",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811904",
-    "NAME": "АЗС №34",
-    "LONGITUDE": "74.54608",
-    "LATITUDE": "42.89213",
-    "IDENTIFIER": "3676",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Юлиуса Фучика, 88/1",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811905",
-    "NAME": "АЗС №38",
-    "LONGITUDE": "74.5984",
-    "LATITUDE": "42.843",
-    "IDENTIFIER": "3680",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Бишкек, Ахунбаева, 102А",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "174",
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "174": "81.50",
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "174",
-        "name": "98",
-        "price": "81.50"
-      },
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.00"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17813453",
-    "NAME": "АЗС №99",
-    "LONGITUDE": "73.69649",
-    "LATITUDE": "42.21877",
-    "IDENTIFIER": "11222",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": "AZS104066",
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Суусамыр, Суусамыр, Ош-Бишкек (село Суусамыр, Корумду, 160 км.)",
-    "SERVICES": [
-      "17813325",
-      "17813326",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813353",
-      "17813354",
-      "17813356",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "175",
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "175": "70.50",
-      "176": "69.50",
-      "177": "62.70",
-      "180": "31.50",
-      "2423224": "63.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "175",
-        "name": "G-95",
-        "price": "70.50"
-      },
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.50"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "62.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "63.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
     "PRICETIME": 1747913453,
-    "CURRENCY": "KGS",
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -2462,24 +140,969 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17811917",
-    "NAME": "АЗС №106",
-    "LONGITUDE": "73.88208",
-    "LATITUDE": "42.81143",
-    "IDENTIFIER": "3739",
-    "REGION": "3485",
+    "ID": "17812096",
+    "NAME": "АЗС №3",
+    "LONGITUDE": "71.40275",
+    "LATITUDE": "51.1746",
+    "IDENTIFIER": "8821",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103677",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Астана, Богенбай батыра, 24",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "174",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "174": "310.00",
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "174",
+        "name": "98",
+        "price": "310.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812097",
+    "NAME": "АЗС №4",
+    "LONGITUDE": "71.47111",
+    "LATITUDE": "51.16395",
+    "IDENTIFIER": "8822",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103678",
     "AZSGOID": null,
     "URLTOTIP": "",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Сосновка, Жайыльский р-н, с.Сосновка, 62 км \"Бишкек-Ош\"",
+    "PLACE": "Астана, Абая, 105",
     "SERVICES": [
       "17813325",
       "17813326",
-      "17813333",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812436",
+    "NAME": "АЗС №6",
+    "LONGITUDE": "71.45577",
+    "LATITUDE": "51.18905",
+    "IDENTIFIER": "200000079",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS104158",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Астана, Алаш, 18/1",
+    "SERVICES": [
+      "17813325",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТз",
+        "price": "450.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812279",
+    "NAME": "АЗС №7",
+    "LONGITUDE": "71.35905",
+    "LATITUDE": "51.14931",
+    "IDENTIFIER": "12111",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103679",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Астана, Коргалжинское, 35",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812437",
+    "NAME": "АЗС №8",
+    "LONGITUDE": "71.53044",
+    "LATITUDE": "51.14546",
+    "IDENTIFIER": "200000080",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS104127",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Астана, Кошкарбаева, 70",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТз",
+        "price": "450.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811930",
+    "NAME": "АЗС №100",
+    "LONGITUDE": "76.85746",
+    "LATITUDE": "43.20698",
+    "IDENTIFIER": "5574",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103680",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Жандосова, 85",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811931",
+    "NAME": "АЗС №101",
+    "LONGITUDE": "76.8388",
+    "LATITUDE": "43.29042",
+    "IDENTIFIER": "5575",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103684",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Кус Жолы, 1 (Алатауский район, микрорайон Коккайнар)",
+    "SERVICES": [
+      "17813325",
+      "17813327",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": ""
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811932",
+    "NAME": "АЗС №102",
+    "LONGITUDE": "78.39625",
+    "LATITUDE": "45.01823",
+    "IDENTIFIER": "5576",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103686",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Талдыкорган, Нурсултана Назарбаева (угол улицы Каратальская)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813337",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811933",
+    "NAME": "АЗС №103",
+    "LONGITUDE": "78.42324",
+    "LATITUDE": "45.01931",
+    "IDENTIFIER": "5577",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103687",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Талдыкорган, Центральная, 104 (микрорайон Восточный)",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811934",
+    "NAME": "АЗС №104",
+    "LONGITUDE": "77.4385",
+    "LATITUDE": "43.36527",
+    "IDENTIFIER": "5578",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103688",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Есик, Алтын Адам Аллеясы, 130А",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812234",
+    "NAME": "АЗС №105",
+    "LONGITUDE": "76.97825",
+    "LATITUDE": "43.33278",
+    "IDENTIFIER": "11456",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103771",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Жахангера, 12",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "174",
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "174": "315.00",
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "174",
+        "name": "98",
+        "price": "315.00"
+      },
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812270",
+    "NAME": "АЗС №106",
+    "LONGITUDE": "76.82423",
+    "LATITUDE": "43.23868",
+    "IDENTIFIER": "12077",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103689",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Толе Би, 2/1 (Ауэзовский район, Микрорайон Аксай–1А)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812173",
+    "NAME": "АЗС №108",
+    "LONGITUDE": "76.95832",
+    "LATITUDE": "43.37944",
+    "IDENTIFIER": "11104",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103695",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Капчагайская, 33/3 (западная сторона, мкр. Кемел)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": ""
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812283",
+    "NAME": "АЗС №109",
+    "LONGITUDE": "76.83874",
+    "LATITUDE": "43.3537",
+    "IDENTIFIER": "12134",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103696",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Боралдай, Космонавтов, 84А",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812174",
+    "NAME": "АЗС №110",
+    "LONGITUDE": "77.07622",
+    "LATITUDE": "43.30429",
+    "IDENTIFIER": "11105",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103712",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Туздыбастау, Жибек Жолы, 82",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
       "17813335",
       "17813336",
       "17813338",
@@ -2487,57 +1110,383 @@
       "17813352",
       "17813353",
       "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812175",
+    "NAME": "АЗС №111",
+    "LONGITUDE": "76.70773",
+    "LATITUDE": "43.17152",
+    "IDENTIFIER": "11106",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103713",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Жанатурмыс, Алматы-Жандосово (верхняя трасса, южная сторона)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812324",
+    "NAME": "АЗС №112",
+    "LONGITUDE": "77.08488",
+    "LATITUDE": "43.36596",
+    "IDENTIFIER": "14129",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103714",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Панфилово, Кулжа, 29/1",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356",
       "17814727"
     ],
     "AAZS": 0,
     "FUEL": [
       "175",
       "177",
-      "180",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "70.00"
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": "270.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТз",
-        "price": "89.00"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "70.00"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812203",
+    "NAME": "АЗС №113",
+    "LONGITUDE": "78.33117",
+    "LATITUDE": "44.99301",
+    "IDENTIFIER": "11151",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103715",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Отенай, Талдыкурган-Алматы (3 км, западная сторона)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812209",
+    "NAME": "АЗС №114",
+    "LONGITUDE": "76.90141",
+    "LATITUDE": "43.41363",
+    "IDENTIFIER": "11204",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103716",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Жапек Батыр, Кожанова, 24",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812284",
+    "NAME": "АЗС №115",
+    "LONGITUDE": "77.22973",
+    "LATITUDE": "43.37654",
+    "IDENTIFIER": "12135",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103717",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Кендала, Новоалексеевка-Талгар (Жангильдина, п. Кендала)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -2555,7 +1504,7 @@
     "ASUID": null,
     "WAYID": "AZS103718",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
@@ -2613,20 +1562,20 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17812210",
-    "NAME": "АЗС №130",
-    "LONGITUDE": "76.62136",
-    "LATITUDE": "43.22127",
-    "IDENTIFIER": "11205",
+    "ID": "17812398",
+    "NAME": "АЗС №117",
+    "LONGITUDE": "76.83888",
+    "LATITUDE": "43.25137",
+    "IDENTIFIER": "20408",
     "REGION": "233",
     "ASUID": null,
-    "WAYID": "AZS103729",
+    "WAYID": "AZS103933",
     "AZSGOID": null,
     "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Каскелен, Алматы-Бишкек (29км, южная сторона)",
+    "PLACE": "Алматы, Ташкентская, 479/5",
     "SERVICES": [
       "17813325",
       "17813326",
@@ -2643,7 +1592,150 @@
     ],
     "AAZS": 0,
     "FUEL": [
+      "174",
       "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "174": "315.00",
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "174",
+        "name": "98",
+        "price": "315.00"
+      },
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812176",
+    "NAME": "АЗС №118",
+    "LONGITUDE": "76.61896",
+    "LATITUDE": "43.18502",
+    "IDENTIFIER": "11107",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107285",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Каскелен, Суюнбая, 1",
+    "SERVICES": [
+      "17813325",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812207",
+    "NAME": "АЗС №119",
+    "LONGITUDE": "77.03275",
+    "LATITUDE": "43.44582",
+    "IDENTIFIER": "11202",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103720",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Отеген Батыр, Ильяса Жансугурова, 94 (ж/д переезд)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813327",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
       "177",
       "179"
     ],
@@ -2654,9 +1746,9 @@
     },
     "FUELS_DATA": [
       {
-        "id": "175",
-        "name": "G-95",
-        "price": ""
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
       },
       {
         "id": "177",
@@ -2688,7 +1780,7 @@
     "ASUID": null,
     "WAYID": "AZS103721",
     "AZSGOID": null,
-    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
@@ -2759,7 +1851,7 @@
     "ASUID": null,
     "WAYID": "AZS103722",
     "AZSGOID": null,
-    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "URLTOTIP": "",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
@@ -2823,67 +1915,63 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17811906",
-    "NAME": "АЗС №40",
-    "LONGITUDE": "74.65748",
-    "LATITUDE": "42.8882",
-    "IDENTIFIER": "3682",
-    "REGION": "3485",
+    "ID": "17812227",
+    "NAME": "АЗС №122",
+    "LONGITUDE": "77.02835",
+    "LATITUDE": "43.434",
+    "IDENTIFIER": "11404",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103723",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Лебединовка, пр. Победы, 363/2",
+    "PLACE": "Отеген Батыр, Ильяса Жансугурова, 2М (по автотрассе Алматы-Жетыген на 21 км)",
     "SERVICES": [
+      "17813325",
+      "17813326",
       "17813331",
-      "17813333",
       "17813335",
+      "17813336",
       "17813338",
       "17813343",
+      "17813352",
       "17813354",
       "17813356",
       "17814727"
     ],
     "AAZS": 0,
     "FUEL": [
-      "176",
+      "175",
       "177",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -2892,79 +1980,135 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17812072",
-    "NAME": "АЗС №54",
-    "LONGITUDE": "74.64541",
-    "LATITUDE": "42.94259",
-    "IDENTIFIER": "7717",
-    "REGION": "3485",
+    "ID": "17812395",
+    "NAME": "АЗС №123",
+    "LONGITUDE": "76.81319",
+    "LATITUDE": "43.21124",
+    "IDENTIFIER": "19361",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103924",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Ленинское, Алматинская, 51",
+    "PLACE": "Алматы, Ашимова, 179 (Наурызбайский р-он , мкр Калкаман 2)",
     "SERVICES": [
       "17813325",
       "17813326",
-      "17813327",
       "17813331",
-      "17813333",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
-      "17813353",
       "17813354",
       "17813356",
       "17814727"
     ],
     "AAZS": 0,
     "FUEL": [
+      "174",
       "175",
       "176",
-      "177",
-      "180",
-      "179"
+      "177"
     ],
     "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "179": "71.60"
+      "174": "315.00",
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00"
     },
     "FUELS_DATA": [
       {
+        "id": "174",
+        "name": "98",
+        "price": "315.00"
+      },
+      {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": "270.00"
       },
       {
         "id": "176",
         "name": "95",
-        "price": "69.00"
+        "price": "262.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
+        "price": "205.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812177",
+    "NAME": "АЗС №125",
+    "LONGITUDE": "77.24506",
+    "LATITUDE": "43.4086",
+    "IDENTIFIER": "11108",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103724",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Ават, Кульджинский тракт (30 км)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
       },
       {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
     "PRICETIME": 1747913453,
-    "CURRENCY": "KGS",
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -2973,29 +2117,233 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17811910",
-    "NAME": "АЗС №56",
-    "LONGITUDE": "74.49707",
-    "LATITUDE": "42.87579",
-    "IDENTIFIER": "3698",
-    "REGION": "3485",
+    "ID": "17812195",
+    "NAME": "АЗС №126",
+    "LONGITUDE": "77.14149",
+    "LATITUDE": "43.39442",
+    "IDENTIFIER": "11141",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103725",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Новопавловка, Фрунзе-Гоголя б/н",
+    "PLACE": "Панфилово, Кулжа, 265 (южная сторона)",
     "SERVICES": [
       "17813325",
       "17813326",
-      "17813333",
+      "17813331",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
+      "17813352",
       "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812194",
+    "NAME": "АЗС №127",
+    "LONGITUDE": "76.98986",
+    "LATITUDE": "43.44763",
+    "IDENTIFIER": "11140",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103726",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Жанадаур, А3 (13 км)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812178",
+    "NAME": "АЗС №128",
+    "LONGITUDE": "77.03852",
+    "LATITUDE": "43.83774",
+    "IDENTIFIER": "11109",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103727",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Капчагай, Алматы-Талдыкорган, 1 (западная сторона, 67 км)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813337",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812235",
+    "NAME": "АЗС №129",
+    "LONGITUDE": "77.23074",
+    "LATITUDE": "43.30218",
+    "IDENTIFIER": "11457",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103728",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Талгар, Конаева, 258А",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
       "17813354",
       "17813356",
       "17814727"
@@ -3005,45 +2353,38 @@
       "175",
       "176",
       "177",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": "270.00"
       },
       {
         "id": "176",
         "name": "95",
-        "price": "69.00"
+        "price": "262.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -3052,30 +2393,30 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17811907",
-    "NAME": "АЗС №41",
-    "LONGITUDE": "74.37079",
-    "LATITUDE": "42.86805",
-    "IDENTIFIER": "3683",
-    "REGION": "3485",
+    "ID": "17812210",
+    "NAME": "АЗС №130",
+    "LONGITUDE": "76.62136",
+    "LATITUDE": "43.22127",
+    "IDENTIFIER": "11205",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103729",
     "AZSGOID": null,
-    "URLTOTIP": "",
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Гавриловка, Фрунзе, б/н",
+    "PLACE": "Каскелен, Алматы-Бишкек (29км, южная сторона)",
     "SERVICES": [
       "17813325",
       "17813326",
+      "17813328",
       "17813331",
-      "17813333",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
-      "17813353",
+      "17813352",
       "17813354",
       "17813356",
       "17814727"
@@ -3084,46 +2425,32 @@
     "FUEL": [
       "175",
       "177",
-      "180",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": ""
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913453,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -3132,157 +2459,78 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17811908",
-    "NAME": "АЗС №43",
-    "LONGITUDE": "74.10634",
-    "LATITUDE": "42.83496",
-    "IDENTIFIER": "3685",
-    "REGION": "3485",
+    "ID": "17812371",
+    "NAME": "АЗС №131",
+    "LONGITUDE": "77.02004",
+    "LATITUDE": "43.32282",
+    "IDENTIFIER": "15825",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS103925",
     "AZSGOID": null,
     "URLTOTIP": "",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Беловодское, Фрунзе, б/н (М39)",
-    "SERVICES": [
-      "17813325",
-      "17813328",
-      "17813331",
-      "17813333",
-      "17813335",
-      "17813336",
-      "17813338",
-      "17813343",
-      "17813352",
-      "17813353",
-      "17814727"
-    ],
-    "AAZS": 0,
-    "FUEL": [
-      "176",
-      "177",
-      "180",
-      "2423224",
-      "179"
-    ],
-    "PRICE": {
-      "176": "69.00",
-      "177": "61.70",
-      "180": "31.50",
-      "2423224": "62.70",
-      "179": "71.60"
-    },
-    "FUELS_DATA": [
-      {
-        "id": "176",
-        "name": "95",
-        "price": "69.00"
-      },
-      {
-        "id": "177",
-        "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "180",
-        "name": "ГАЗ",
-        "price": "31.50"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
-      },
-      {
-        "id": "179",
-        "name": "ДТл",
-        "price": "71.60"
-      }
-    ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
-    "POOL": 0,
-    "ONLINE_DISCOUNT": null,
-    "ONLINE_DISCOUNT_PIN": false,
-    "ONLINE_PROMOTIONS": [],
-    "ONLINE_COFFEE": false,
-    "ONLINE_STIU": false
-  },
-  {
-    "ID": "17811909",
-    "NAME": "АЗС №50",
-    "LONGITUDE": "73.84933",
-    "LATITUDE": "42.82495",
-    "IDENTIFIER": "3692",
-    "REGION": "3485",
-    "ASUID": null,
-    "WAYID": null,
-    "AZSGOID": null,
-    "URLTOTIP": "",
-    "NOTICE_TEXT": "",
-    "NOTICE_URL": "",
-    "BRAND": "GPN",
-    "PLACE": "Кара-Балта, Жайыл Баатыра, 176 (пересечение с  8 Марта)",
+    "PLACE": "Алматы, Бухтарминская, 93Д",
     "SERVICES": [
       "17813325",
       "17813326",
       "17813328",
       "17813331",
-      "17813333",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
       "17813352",
       "17813354",
+      "17813356",
       "17814727"
     ],
     "AAZS": 0,
     "FUEL": [
+      "174",
       "175",
       "176",
       "177",
-      "2423224",
       "179"
     ],
     "PRICE": {
-      "175": "70.00",
-      "176": "69.00",
-      "177": "61.70",
-      "2423224": "62.70",
-      "179": "71.60"
+      "174": "315.00",
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
     },
     "FUELS_DATA": [
       {
+        "id": "174",
+        "name": "98",
+        "price": "315.00"
+      },
+      {
         "id": "175",
         "name": "G-95",
-        "price": "70.00"
+        "price": "270.00"
       },
       {
         "id": "176",
         "name": "95",
-        "price": "69.00"
+        "price": "262.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": "61.70"
-      },
-      {
-        "id": "2423224",
-        "name": "G-92",
-        "price": "62.70"
+        "price": "205.00"
       },
       {
         "id": "179",
         "name": "ДТл",
-        "price": "71.60"
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1747913451,
-    "CURRENCY": "KGS",
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
@@ -3291,27 +2539,2486 @@
     "ONLINE_STIU": false
   },
   {
-    "ID": "17814161",
+    "ID": "17812367",
+    "NAME": "АЗС №132",
+    "LONGITUDE": "76.87269",
+    "LATITUDE": "43.24866",
+    "IDENTIFIER": "14373",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103730",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Тлендиева, 84",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812845",
     "NAME": "АЗС №138",
-    "LONGITUDE": "71.06961",
-    "LATITUDE": "41.25938",
-    "IDENTIFIER": "400000832",
-    "REGION": "3485",
+    "LONGITUDE": "76.98351",
+    "LATITUDE": "43.2648",
+    "IDENTIFIER": "400000256",
+    "REGION": "233",
     "ASUID": null,
-    "WAYID": null,
+    "WAYID": "AZS107311",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Сагдат Нурмаганбетов, 148/2",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "14606701",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00",
+      "14606701": "410.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "14606701",
+        "name": "G-100",
+        "price": "410.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812655",
+    "NAME": "АЗС №139",
+    "LONGITUDE": "76.88971",
+    "LATITUDE": "43.22714",
+    "IDENTIFIER": "400000165",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107164",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Жандосова, 39/1 (Бостандыкский район)",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "174",
+      "175",
+      "176",
+      "177",
+      "14606701",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00",
+      "14606701": "410.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "174",
+        "name": "98",
+        "price": ""
+      },
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "14606701",
+        "name": "G-100",
+        "price": "410.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812640",
+    "NAME": "АЗС №154",
+    "LONGITUDE": "76.80784",
+    "LATITUDE": "43.23777",
+    "IDENTIFIER": "400000137",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107137",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Каменка, Райымбека, 517",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": ""
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813256",
+    "NAME": "АЗС №155",
+    "LONGITUDE": "76.54337",
+    "LATITUDE": "43.19404",
+    "IDENTIFIER": "400000374",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107528",
     "AZSGOID": null,
     "URLTOTIP": "",
     "NOTICE_TEXT": "",
     "NOTICE_URL": "",
     "BRAND": "GPN",
-    "PLACE": "Джалал-Абад, Джалал-Абадская обл., с.Бозумчак",
+    "PLACE": "Шамалган, Жибек-Жолы, 1А",
     "SERVICES": [
+      "17813325",
+      "17813331",
       "17813335",
       "17813336",
       "17813338",
       "17813343",
+      "17813353",
+      "17813354",
       "17813356",
       "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "262.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": ""
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813506",
+    "NAME": "АЗС №156",
+    "LONGITUDE": "76.93726",
+    "LATITUDE": "43.33639",
+    "IDENTIFIER": "400000558",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS108054",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Ержанова М., 135/1",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "14606701",
+      "179"
+    ],
+    "PRICE": {
+      "174": "315.00",
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00",
+      "14606701": "410.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "14606701",
+        "name": "G-100",
+        "price": "410.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813546",
+    "NAME": "АЗС №157",
+    "LONGITUDE": "76.90895",
+    "LATITUDE": "43.20068",
+    "IDENTIFIER": "400000598",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS108135",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Казахфильм, 34Б",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "14606701",
+      "179"
+    ],
+    "PRICE": {
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00",
+      "14606701": "410.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "14606701",
+        "name": "G-100",
+        "price": "410.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813664",
+    "NAME": "АЗС №160",
+    "LONGITUDE": "76.89868",
+    "LATITUDE": "43.30733",
+    "IDENTIFIER": "400000702",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS108406",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Алматы, Северное кольцо, 27 Е",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "174": "315.00",
+      "175": "270.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "270.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913460,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813450",
+    "NAME": "АЗС №200",
+    "LONGITUDE": "69.57448",
+    "LATITUDE": "42.32639",
+    "IDENTIFIER": "5579",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103731",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Темирлан, 560 (Абайский район)",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813337",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813451",
+    "NAME": "АЗС №201",
+    "LONGITUDE": "69.62945",
+    "LATITUDE": "42.32839",
+    "IDENTIFIER": "5580",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103732",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Жибек Жолы, 13/6 (Енбекшинский район)",
+    "SERVICES": [
+      "17813325",
+      "17813327",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813337",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813452",
+    "NAME": "АЗС №202",
+    "LONGITUDE": "69.58202",
+    "LATITUDE": "42.30203",
+    "IDENTIFIER": "5830",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103733",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Джангельдина, 416",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811937",
+    "NAME": "АЗС №205",
+    "LONGITUDE": "68.23584",
+    "LATITUDE": "43.31189",
+    "IDENTIFIER": "5583",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103734",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Туркестан, Кызылорда Тас Жолы, 19/1",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811969",
+    "NAME": "АЗС №206",
+    "LONGITUDE": "68.30742",
+    "LATITUDE": "43.3162",
+    "IDENTIFIER": "5831",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103735",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Туркестан, Казыбек Би, 344",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17813627"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811938",
+    "NAME": "АЗС №207",
+    "LONGITUDE": "68.50239",
+    "LATITUDE": "43.50124",
+    "IDENTIFIER": "5584",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103736",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Кентау, Сакена Сейфуллина, 126",
+    "SERVICES": [
+      "17813325",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811939",
+    "NAME": "АЗС №208",
+    "LONGITUDE": "69.1964",
+    "LATITUDE": "41.47263",
+    "IDENTIFIER": "5585",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103737",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Сарыагаш, Абай-Шымкент, 468",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811940",
+    "NAME": "АЗС №209",
+    "LONGITUDE": "68.68237",
+    "LATITUDE": "41.08772",
+    "IDENTIFIER": "5586",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103738",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Бирликский, Мухтара Ауезова, 150 (трасса Абай-Жетысай)",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813455",
+    "NAME": "АЗС №210",
+    "LONGITUDE": "69.48706",
+    "LATITUDE": "42.38406",
+    "IDENTIFIER": "11625",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103739",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Объездная Алматы - Ташкент, 842 (северная сторона, на выезде из г. Шымкент в сторону Туркестана и Кызылорды, далее аэропорта)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812259",
+    "NAME": "АЗС №211",
+    "LONGITUDE": "69.54278",
+    "LATITUDE": "42.2507",
+    "IDENTIFIER": "12049",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103740",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Квартал 156, 1779 (западная сторона)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813454",
+    "NAME": "АЗС №212",
+    "LONGITUDE": "69.56827",
+    "LATITUDE": "42.3989",
+    "IDENTIFIER": "11462",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103741",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Ташкент-Алматы, 1927 (Каратауский район, мкр. Достык)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812338",
+    "NAME": "АЗС №214",
+    "LONGITUDE": "69.64461",
+    "LATITUDE": "42.44922",
+    "IDENTIFIER": "14255",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103743",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Кайнарбулак, 1059А (Каратауский район, ж.м. Кайнарбулак)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812339",
+    "NAME": "АЗС №215",
+    "LONGITUDE": "69.61721",
+    "LATITUDE": "42.45483",
+    "IDENTIFIER": "14256",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103744",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Бозарык, Квартал 219, 1859 (Сайрамский район, с.о. Кайнарбулакский)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812340",
+    "NAME": "АЗС №216",
+    "LONGITUDE": "69.81373",
+    "LATITUDE": "42.47602",
+    "IDENTIFIER": "14257",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103745",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Аксу, А-2 (Тамерлановская а/д на въезде в с. Карабулак)",
+    "SERVICES": [
+      "17813325",
+      "17813328",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813514",
+    "NAME": "АЗС №218",
+    "LONGITUDE": "69.60704",
+    "LATITUDE": "42.32366",
+    "IDENTIFIER": "400000569",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": null,
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Казыбек Би, 52В",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813456",
+    "NAME": "АЗС №221",
+    "LONGITUDE": "69.70037",
+    "LATITUDE": "42.26493",
+    "IDENTIFIER": "200002018",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS105829",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Жулдыз, 239",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17813457",
+    "NAME": "АЗС №223",
+    "LONGITUDE": "69.52277",
+    "LATITUDE": "42.31658",
+    "IDENTIFIER": "400000448",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107763",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Шымкент, Кызыл жар, 3/4",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "198.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "198.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913458,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811942",
+    "NAME": "АЗС №302",
+    "LONGITUDE": "71.24089",
+    "LATITUDE": "42.84632",
+    "IDENTIFIER": "5589",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103747",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Кара-Тобе, А2 ( 528 км)",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "202.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "202.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17811943",
+    "NAME": "АЗС №304",
+    "LONGITUDE": "71.49114",
+    "LATITUDE": "42.92907",
+    "IDENTIFIER": "5591",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103748",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Талас, Учетный квартал 085, 158 (Жамбылская область, Байзакский район)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "202.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "202.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913451,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812399",
+    "NAME": "АЗС №305",
+    "LONGITUDE": "71.35748",
+    "LATITUDE": "42.88987",
+    "IDENTIFIER": "20409",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS104058",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Тараз, Микрорайон Талас, 22В",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "202.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "202.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812229",
+    "NAME": "АЗС №400",
+    "LONGITUDE": "73.18888",
+    "LATITUDE": "49.84536",
+    "IDENTIFIER": "11411",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103749",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Маркса, 1/3",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812260",
+    "NAME": "АЗС №401",
+    "LONGITUDE": "73.17058",
+    "LATITUDE": "49.8296",
+    "IDENTIFIER": "12050",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103750",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Учетный квартал 066, 365",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТз",
+        "price": "450.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812225",
+    "NAME": "АЗС №402",
+    "LONGITUDE": "73.15812",
+    "LATITUDE": "49.78522",
+    "IDENTIFIER": "11402",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103751",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/116yar?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Муканова, 51\\12",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812286",
+    "NAME": "АЗС №403",
+    "LONGITUDE": "73.05553",
+    "LATITUDE": "49.85309",
+    "IDENTIFIER": "12153",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103752",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Учетный квартал 108, 275 (район имени Алихана Букейханова)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812282",
+    "NAME": "АЗС №404",
+    "LONGITUDE": "73.12853",
+    "LATITUDE": "49.78072",
+    "IDENTIFIER": "12133",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103753",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Сарыарка, 7",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812337",
+    "NAME": "АЗС №405",
+    "LONGITUDE": "73.09791",
+    "LATITUDE": "49.79029",
+    "IDENTIFIER": "14254",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103754",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Складская, 8/4 (район имени Казыбек Би)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813353",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812365",
+    "NAME": "АЗС №406",
+    "LONGITUDE": "73.03334",
+    "LATITUDE": "49.80883",
+    "IDENTIFIER": "14371",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103755",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Караганда, Учетный квартал 163, 389 (район имени Казыбек Би)",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812366",
+    "NAME": "АЗС №407",
+    "LONGITUDE": "72.9617",
+    "LATITUDE": "50.0381",
+    "IDENTIFIER": "14372",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS103756",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/221nsk?mode=gpnmp&filter=%d0%b7%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d1%89%d0%b8%d0%ba",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Темиртау, Металлургов, 70",
+    "SERVICES": [
+      "17813325",
+      "17813326",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813352",
+      "17813354",
+      "17813356",
+      "17814727"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "176": "255.00",
+      "177": "205.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "205.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913455,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812480",
+    "NAME": "АЗС №600",
+    "LONGITUDE": "76.94281",
+    "LATITUDE": "52.26377",
+    "IDENTIFIER": "200002012",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS105321",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Павлодар, Академика Сатпаева, 304/2",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "175",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "175": "262.00",
+      "176": "255.00",
+      "177": "201.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "175",
+        "name": "G-95",
+        "price": "262.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "201.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": ""
+      }
+    ],
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812479",
+    "NAME": "АЗС №601",
+    "LONGITUDE": "76.96886",
+    "LATITUDE": "52.26666",
+    "IDENTIFIER": "200002011",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS105322",
+    "AZSGOID": null,
+    "URLTOTIP": "",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Павлодар, Назарбаева, 56",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813354",
+      "17813356"
     ],
     "AAZS": 0,
     "FUEL": [
@@ -3320,31 +5027,106 @@
       "177",
       "179"
     ],
-    "PRICE": [],
+    "PRICE": {
+      "174": "310.00",
+      "176": "255.00",
+      "177": "201.00",
+      "179": "295.00"
+    },
     "FUELS_DATA": [
       {
         "id": "174",
         "name": "98",
-        "price": ""
+        "price": "310.00"
       },
       {
         "id": "176",
         "name": "95",
-        "price": ""
+        "price": "255.00"
       },
       {
         "id": "177",
         "name": "92",
-        "price": ""
+        "price": "201.00"
       },
       {
         "id": "179",
-        "name": "ДТ",
-        "price": ""
+        "name": "ДТл",
+        "price": "295.00"
       }
     ],
-    "PRICETIME": 1748600350,
-    "CURRENCY": "RUB",
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
+    "POOL": 0,
+    "ONLINE_DISCOUNT": null,
+    "ONLINE_DISCOUNT_PIN": false,
+    "ONLINE_PROMOTIONS": [],
+    "ONLINE_COFFEE": false,
+    "ONLINE_STIU": false
+  },
+  {
+    "ID": "17812656",
+    "NAME": "АЗС №605",
+    "LONGITUDE": "76.90931",
+    "LATITUDE": "52.3223",
+    "IDENTIFIER": "400000166",
+    "REGION": "233",
+    "ASUID": null,
+    "WAYID": "AZS107049",
+    "AZSGOID": null,
+    "URLTOTIP": "https://etiquette.ms/saythx/employees/52spb?mode=gpnmp",
+    "NOTICE_TEXT": "",
+    "NOTICE_URL": "",
+    "BRAND": "GPN",
+    "PLACE": "Павлодар, И 50",
+    "SERVICES": [
+      "17813325",
+      "17813331",
+      "17813335",
+      "17813336",
+      "17813338",
+      "17813343",
+      "17813353",
+      "17813354",
+      "17813356"
+    ],
+    "AAZS": 0,
+    "FUEL": [
+      "174",
+      "176",
+      "177",
+      "179"
+    ],
+    "PRICE": {
+      "174": "310.00",
+      "176": "255.00",
+      "177": "201.00",
+      "179": "295.00"
+    },
+    "FUELS_DATA": [
+      {
+        "id": "174",
+        "name": "98",
+        "price": "310.00"
+      },
+      {
+        "id": "176",
+        "name": "95",
+        "price": "255.00"
+      },
+      {
+        "id": "177",
+        "name": "92",
+        "price": "201.00"
+      },
+      {
+        "id": "179",
+        "name": "ДТл",
+        "price": "295.00"
+      }
+    ],
+    "PRICETIME": 1747913456,
+    "CURRENCY": "KZT",
     "POOL": 0,
     "ONLINE_DISCOUNT": null,
     "ONLINE_DISCOUNT_PIN": false,
