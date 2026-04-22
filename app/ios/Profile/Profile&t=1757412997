@@ -63,7 +63,7 @@
       "main": {
         "avatar": "",
         "name": "",
-        "phone": "996000000000",
+        "phone": "77000000000",
         "phone_id": "j99p7JEa2yZtJJcy4HrryA==",
         "birth_date": "16.01",
         "is_birth_date_editable": true,
@@ -128,7 +128,7 @@
             "title": "Пример",
             "image": "https://jolgo.ru/app/src/banner.png",
             "image_ratio": 3.72826087,
-            "url": "https://jolgo.ru",
+            "url": "https://jolymyzbir.kz",
             "partner_id": "",
             "sort": 1,
             "slug": "primer"

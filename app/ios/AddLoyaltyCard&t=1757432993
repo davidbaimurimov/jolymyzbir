@@ -3,8 +3,8 @@
  "error": "",
  "session": "",
  "action": "enterVerificationCode",
- "message": "Введите код, отправленный в СМС на номер 234234",
+ "message": "Введите код, отправленный в СМС на номер 000000",
  "type": "sms",
- "card_phone": "40-32",
+ "card_phone": "00-00",
  "secret": "=QnThd=XYlZlU=hFTRy0=2SGBHa=TFVRr9=UT5djb=0N2UrZ=FW="
 }
