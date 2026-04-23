@@ -168,9 +168,9 @@
     "banners": [
         {
             "title": "Пример",
-            "image": "https://jolgo.ru/app/src/banner.png",
+            "image": "https://jolymyzbir.ru/app/src/banner.png",
             "image_ratio": 3.72826087,
-            "url": "https://jolymyzbir.kz",
+            "url": "https://jolymyzbir.ru",
             "partner_id": "",
             "sort": 1,
             "slug": "primer"
