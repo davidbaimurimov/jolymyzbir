@@ -1,5 +1,5 @@
 /**
- * jolgo Landing Page - Interactive JavaScript
+ * JOLYMYZBIR Landing Page - Interactive JavaScript
  * Современная интерактивность и анимации
  */
 
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initMobileMenu();
     initParallax();
 
-    console.log('%cjolgo', 'color: #6366F1; font-size: 32px; font-weight: bold;');
+    console.log('%cjolymyzbir', 'color: #6366F1; font-size: 32px; font-weight: bold;');
     console.log('%c✨ Добро пожаловать!', 'color: #8B5CF6; font-size: 16px;');
 });
 
@@ -543,4 +543,4 @@ if (window.location.search.includes('debug=true')) {
     });
 }
 
-console.log('%c✨ jolgo загружен успешно!', 'color: #6366F1; font-size: 14px;');
+console.log('%c✨ jolymyzbir загружен успешно!', 'color: #6366F1; font-size: 14px;');
