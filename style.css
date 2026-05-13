@@ -138,7 +138,7 @@ img {
 }
 
 .logo img {
-    width: 32px;
+    width: auto;
     height: 32px;
 }
 
@@ -462,6 +462,7 @@ img {
 .card-frame img {
     max-width: 350px;
     filter: drop-shadow(0 30px 60px rgba(0, 0, 0, 0.5));
+    border-radius: 20px;
 }
 
 @keyframes cardFloat {
@@ -1036,7 +1037,7 @@ img {
 }
 
 .footer-logo img {
-    width: 32px;
+    width: auto;
     height: 32px;
 }
 
